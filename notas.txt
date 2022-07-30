@@ -1,0 +1,10 @@
+$clr-dark: #222126
+$clr-brown: #A66953
+$clr-white: #F2F2F2
+$clr-gray-light: #D9D9D9
+$clr-gray-dark: #A6A6A6
+
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Poppins:wght@400;500;700&display=swap");
+
+$ff-headings: 'Alfa Slab One', cursive;
+$ff-main: 'Poppins', sans-serif;
